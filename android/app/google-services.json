@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504767382186",
+    "project_id": "test-project-ea090",
+    "storage_bucket": "test-project-ea090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504767382186:android:03f6a3895282f00a7186d3",
+        "android_client_info": {
+          "package_name": "com.example.satu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504767382186-qni227gpp2om8hpaf0l97d9k1pqr071j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIT4O3N8vIUo5_iqvJqYcmxSzu0mQwlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504767382186-qni227gpp2om8hpaf0l97d9k1pqr071j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
